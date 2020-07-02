@@ -1,5 +1,6 @@
 ## Technical Questions
 
+
 ### How long did you spend on the technical test? What would you add to your solution if you had more time? If you didn't spend much time on the technical test, then use this as an opportunity to explain what you would add.
 For Technical Test, I spent around 2 hours to complete the assigned tasks. If I had more time to spend for this technical test, then I would test more features as well if I have more features available to test.
 
