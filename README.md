@@ -18,7 +18,7 @@ This project is created with the use of following Tools.
 - Setup JAVA_Home and M2_Home in Environment Variable using 'https://maven.apache.org/install.html'
 - Verify installation of JAVA & Maven from Command Prompt
 
-### Setup the project
+### Download & Setup the project
 - Click on "Code" button and click on "Download Zip"
 - Extract 'justEatTechnicalTest' project and save it on local machine
 
