@@ -19,7 +19,7 @@ This project is created with the use of following Tools.
 - Verify installation of JAVA & Maven from Command Prompt
 
 ### Setup the project
-- Download the zip file
+- Click on "Code" button and click on "Download the zip file"
 - Extract 'justEatTechnicalTest' project and save it on local machine
 
 ### Feature(s)
